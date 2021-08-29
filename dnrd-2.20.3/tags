@@ -1,0 +1,962 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ACLOCAL	Makefile	/^ACLOCAL = ${SHELL} \/root\/DNSServer\/dnrd-2.20.3\/missing --run aclocal-1.11$/;"	m
+ACLOCAL	doc/Makefile	/^ACLOCAL = ${SHELL} \/root\/DNSServer\/dnrd-2.20.3\/missing --run aclocal-1.11$/;"	m
+ACLOCAL	src/Makefile	/^ACLOCAL = ${SHELL} \/root\/DNSServer\/dnrd-2.20.3\/missing --run aclocal-1.11$/;"	m
+ACLOCAL_M4	Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/;"	m
+ACLOCAL_M4	doc/Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/;"	m
+ACLOCAL_M4	src/Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/;"	m
+AMTAR	Makefile	/^AMTAR = ${SHELL} \/root\/DNSServer\/dnrd-2.20.3\/missing --run tar$/;"	m
+AMTAR	doc/Makefile	/^AMTAR = ${SHELL} \/root\/DNSServer\/dnrd-2.20.3\/missing --run tar$/;"	m
+AMTAR	src/Makefile	/^AMTAR = ${SHELL} \/root\/DNSServer\/dnrd-2.20.3\/missing --run tar$/;"	m
+AM_RECURSIVE_TARGETS	Makefile	/^AM_RECURSIVE_TARGETS = $(RECURSIVE_TARGETS:-recursive=) \\$/;"	m
+ARPADOMAIN	src/master.c	50;"	d	file:
+AUTOCONF	Makefile	/^AUTOCONF = ${SHELL} \/root\/DNSServer\/dnrd-2.20.3\/missing --run autoconf$/;"	m
+AUTOCONF	doc/Makefile	/^AUTOCONF = ${SHELL} \/root\/DNSServer\/dnrd-2.20.3\/missing --run autoconf$/;"	m
+AUTOCONF	src/Makefile	/^AUTOCONF = ${SHELL} \/root\/DNSServer\/dnrd-2.20.3\/missing --run autoconf$/;"	m
+AUTOHEADER	Makefile	/^AUTOHEADER = ${SHELL} \/root\/DNSServer\/dnrd-2.20.3\/missing --run autoheader$/;"	m
+AUTOHEADER	doc/Makefile	/^AUTOHEADER = ${SHELL} \/root\/DNSServer\/dnrd-2.20.3\/missing --run autoheader$/;"	m
+AUTOHEADER	src/Makefile	/^AUTOHEADER = ${SHELL} \/root\/DNSServer\/dnrd-2.20.3\/missing --run autoheader$/;"	m
+AUTOMAKE	Makefile	/^AUTOMAKE = ${SHELL} \/root\/DNSServer\/dnrd-2.20.3\/missing --run automake-1.11$/;"	m
+AUTOMAKE	doc/Makefile	/^AUTOMAKE = ${SHELL} \/root\/DNSServer\/dnrd-2.20.3\/missing --run automake-1.11$/;"	m
+AUTOMAKE	src/Makefile	/^AUTOMAKE = ${SHELL} \/root\/DNSServer\/dnrd-2.20.3\/missing --run automake-1.11$/;"	m
+AWK	Makefile	/^AWK = gawk$/;"	m
+AWK	doc/Makefile	/^AWK = gawk$/;"	m
+AWK	src/Makefile	/^AWK = gawk$/;"	m
+CACHE_HIGHWATER	src/cache.c	69;"	d	file:
+CACHE_LOWWATER	src/cache.c	70;"	d	file:
+CACHE_MAXTIME	src/cache.c	53;"	d	file:
+CACHE_MINCYCLE	src/cache.c	61;"	d	file:
+CACHE_NEGTIME	src/cache.c	51;"	d	file:
+CACHE_TIME	src/cache.c	52;"	d	file:
+CACHE_TIMEUNIT	src/cache.c	42;"	d	file:
+CC	Makefile	/^CC = gcc$/;"	m
+CC	doc/Makefile	/^CC = gcc$/;"	m
+CC	src/Makefile	/^CC = gcc$/;"	m
+CCDEPMODE	Makefile	/^CCDEPMODE = depmode=gcc3$/;"	m
+CCDEPMODE	doc/Makefile	/^CCDEPMODE = depmode=gcc3$/;"	m
+CCDEPMODE	src/Makefile	/^CCDEPMODE = depmode=gcc3$/;"	m
+CCLD	src/Makefile	/^CCLD = $(CC)$/;"	m
+CFLAGS	Makefile	/^CFLAGS = -g -O2$/;"	m
+CFLAGS	doc/Makefile	/^CFLAGS = -g -O2$/;"	m
+CFLAGS	src/Makefile	/^CFLAGS = -g -O2$/;"	m
+COMPILE	src/Makefile	/^COMPILE = $(CC) $(DEFS) $(DEFAULT_INCLUDES) $(INCLUDES) $(AM_CPPFLAGS) \\$/;"	m
+CONFIG_CLEAN_FILES	Makefile	/^CONFIG_CLEAN_FILES =$/;"	m
+CONFIG_CLEAN_FILES	doc/Makefile	/^CONFIG_CLEAN_FILES = dnrd.8 README-master README-cache$/;"	m
+CONFIG_CLEAN_FILES	src/Makefile	/^CONFIG_CLEAN_FILES =$/;"	m
+CONFIG_CLEAN_VPATH_FILES	Makefile	/^CONFIG_CLEAN_VPATH_FILES =$/;"	m
+CONFIG_CLEAN_VPATH_FILES	doc/Makefile	/^CONFIG_CLEAN_VPATH_FILES =$/;"	m
+CONFIG_CLEAN_VPATH_FILES	src/Makefile	/^CONFIG_CLEAN_VPATH_FILES =$/;"	m
+CONFIG_FILE	src/common.h	43;"	d
+CONFIG_HEADER	Makefile	/^CONFIG_HEADER = $(top_builddir)\/src\/config.h$/;"	m
+CONFIG_HEADER	doc/Makefile	/^CONFIG_HEADER = $(top_builddir)\/src\/config.h$/;"	m
+CONFIG_HEADER	src/Makefile	/^CONFIG_HEADER = config.h$/;"	m
+CPP	Makefile	/^CPP = gcc -E$/;"	m
+CPP	doc/Makefile	/^CPP = gcc -E$/;"	m
+CPP	src/Makefile	/^CPP = gcc -E$/;"	m
+CPPFLAGS	Makefile	/^CPPFLAGS = $/;"	m
+CPPFLAGS	doc/Makefile	/^CPPFLAGS = $/;"	m
+CPPFLAGS	src/Makefile	/^CPPFLAGS = $/;"	m
+CTAGS	Makefile	/^CTAGS = ctags$/;"	m
+CTAGS	src/Makefile	/^CTAGS = ctags$/;"	m
+CYGPATH_W	Makefile	/^CYGPATH_W = echo$/;"	m
+CYGPATH_W	doc/Makefile	/^CYGPATH_W = echo$/;"	m
+CYGPATH_W	src/Makefile	/^CYGPATH_W = echo$/;"	m
+DATA	Makefile	/^DATA = $(doc_DATA)$/;"	m
+DATA	doc/Makefile	/^DATA = $(doc_DATA)$/;"	m
+DEFAULT_INCLUDES	src/Makefile	/^DEFAULT_INCLUDES = -I.$/;"	m
+DEFAULT_TTL	src/master.c	57;"	d	file:
+DEFS	Makefile	/^DEFS = -DHAVE_CONFIG_H$/;"	m
+DEFS	doc/Makefile	/^DEFS = -DHAVE_CONFIG_H$/;"	m
+DEFS	src/Makefile	/^DEFS = -DHAVE_CONFIG_H$/;"	m
+DEPDIR	Makefile	/^DEPDIR = .deps$/;"	m
+DEPDIR	doc/Makefile	/^DEPDIR = .deps$/;"	m
+DEPDIR	src/Makefile	/^DEPDIR = .deps$/;"	m
+DISTFILES	Makefile	/^DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)$/;"	m
+DISTFILES	doc/Makefile	/^DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)$/;"	m
+DISTFILES	src/Makefile	/^DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)$/;"	m
+DIST_ARCHIVES	Makefile	/^DIST_ARCHIVES = $(distdir).tar.gz$/;"	m
+DIST_COMMON	Makefile	/^DIST_COMMON = README $(am__configure_deps) $(srcdir)\/Makefile.am \\$/;"	m
+DIST_COMMON	doc/Makefile	/^DIST_COMMON = $(srcdir)\/Makefile.am $(srcdir)\/Makefile.in \\$/;"	m
+DIST_COMMON	src/Makefile	/^DIST_COMMON = $(srcdir)\/Makefile.am $(srcdir)\/Makefile.in \\$/;"	m
+DIST_SOURCES	Makefile	/^DIST_SOURCES =$/;"	m
+DIST_SOURCES	doc/Makefile	/^DIST_SOURCES =$/;"	m
+DIST_SOURCES	src/Makefile	/^DIST_SOURCES = $(dnrd_SOURCES)$/;"	m
+DIST_SUBDIRS	Makefile	/^DIST_SUBDIRS = $(SUBDIRS)$/;"	m
+DNRD_ROOT	Makefile	/^DNRD_ROOT = \/usr\/local\/etc\/dnrd$/;"	m
+DNRD_ROOT	doc/Makefile	/^DNRD_ROOT = \/usr\/local\/etc\/dnrd$/;"	m
+DNRD_ROOT	src/Makefile	/^DNRD_ROOT = \/usr\/local\/etc\/dnrd$/;"	m
+DNRD_ROOT	src/common.h	39;"	d
+DNRD_ROOT	src/config.h	8;"	d
+DNS_AUTHORITY	src/master.c	81;"	d	file:
+DNS_CLASS_INET	src/dns.h	30;"	d
+DNS_DNS	src/master.c	80;"	d	file:
+DNS_NAMEIP	src/master.c	79;"	d	file:
+DNS_TYPE_A	src/master.c	52;"	d	file:
+DNS_TYPE_MX	src/master.c	55;"	d	file:
+DNS_TYPE_NS	src/master.c	53;"	d	file:
+DNS_TYPE_PTR	src/master.c	54;"	d	file:
+ECHO_C	Makefile	/^ECHO_C = $/;"	m
+ECHO_C	doc/Makefile	/^ECHO_C = $/;"	m
+ECHO_C	src/Makefile	/^ECHO_C = $/;"	m
+ECHO_N	Makefile	/^ECHO_N = -n$/;"	m
+ECHO_N	doc/Makefile	/^ECHO_N = -n$/;"	m
+ECHO_N	src/Makefile	/^ECHO_N = -n$/;"	m
+ECHO_T	Makefile	/^ECHO_T = $/;"	m
+ECHO_T	doc/Makefile	/^ECHO_T = $/;"	m
+ECHO_T	src/Makefile	/^ECHO_T = $/;"	m
+EGREP	Makefile	/^EGREP = \/bin\/grep -E$/;"	m
+EGREP	doc/Makefile	/^EGREP = \/bin\/grep -E$/;"	m
+EGREP	src/Makefile	/^EGREP = \/bin\/grep -E$/;"	m
+ENABLE_PIDFILE	src/config.h	11;"	d
+ETAGS	Makefile	/^ETAGS = etags$/;"	m
+ETAGS	src/Makefile	/^ETAGS = etags$/;"	m
+EXEEXT	Makefile	/^EXEEXT = $/;"	m
+EXEEXT	doc/Makefile	/^EXEEXT = $/;"	m
+EXEEXT	src/Makefile	/^EXEEXT = $/;"	m
+EXTRA_DIST	Makefile	/^EXTRA_DIST = README cygwin_post_install.sh$/;"	m
+EXTRA_DIST	doc/Makefile	/^EXTRA_DIST = $(man_MANS) $(doc_DATA)$/;"	m
+FALSE	src/standard.h	54;"	d
+FORWARD_RETRIES	src/common.h	64;"	d
+FORWARD_TIMEOUT	src/common.h	59;"	d
+GET_AA	src/dns.h	53;"	d
+GET_OPCODE	src/dns.h	54;"	d
+GET_QR	src/dns.h	55;"	d
+GET_RA	src/dns.h	50;"	d
+GET_RCODE	src/dns.h	48;"	d
+GET_RD	src/dns.h	51;"	d
+GET_TC	src/dns.h	52;"	d
+GET_Z	src/dns.h	49;"	d
+GREP	Makefile	/^GREP = \/bin\/grep$/;"	m
+GREP	doc/Makefile	/^GREP = \/bin\/grep$/;"	m
+GREP	src/Makefile	/^GREP = \/bin\/grep$/;"	m
+GZIP_ENV	Makefile	/^GZIP_ENV = --best$/;"	m
+HAVE_DIRENT_H	src/config.h	24;"	d
+HAVE_INTTYPES_H	src/config.h	30;"	d
+HAVE_MEMORY_H	src/config.h	33;"	d
+HAVE_PSELECT	src/config.h	39;"	d
+HAVE_SELECT	src/config.h	42;"	d
+HAVE_SOCKET	src/config.h	45;"	d
+HAVE_STDINT_H	src/config.h	48;"	d
+HAVE_STDLIB_H	src/config.h	51;"	d
+HAVE_STRDUP	src/config.h	54;"	d
+HAVE_STRERROR	src/config.h	57;"	d
+HAVE_STRINGS_H	src/config.h	60;"	d
+HAVE_STRING_H	src/config.h	63;"	d
+HAVE_STRNLEN	src/config.h	66;"	d
+HAVE_STRTOUL	src/config.h	69;"	d
+HAVE_SYSLOG_H	src/config.h	72;"	d
+HAVE_SYS_STAT_H	src/config.h	83;"	d
+HAVE_SYS_TIME_H	src/config.h	86;"	d
+HAVE_SYS_TYPES_H	src/config.h	89;"	d
+HAVE_UNISTD_H	src/config.h	92;"	d
+HAVE_USLEEP	src/config.h	95;"	d
+HAVE_VPRINTF	src/config.h	98;"	d
+INCLUDES	src/Makefile	/^INCLUDES = $/;"	m
+INFNODE_H	src/infnode.h	25;"	d
+INSTALL	Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m
+INSTALL	doc/Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m
+INSTALL	src/Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m
+INSTALL_DATA	Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m
+INSTALL_DATA	doc/Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m
+INSTALL_DATA	src/Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m
+INSTALL_HEADER	Makefile	/^INSTALL_HEADER = $(INSTALL_DATA)$/;"	m
+INSTALL_HEADER	doc/Makefile	/^INSTALL_HEADER = $(INSTALL_DATA)$/;"	m
+INSTALL_HEADER	src/Makefile	/^INSTALL_HEADER = $(INSTALL_DATA)$/;"	m
+INSTALL_PROGRAM	Makefile	/^INSTALL_PROGRAM = ${INSTALL}$/;"	m
+INSTALL_PROGRAM	doc/Makefile	/^INSTALL_PROGRAM = ${INSTALL}$/;"	m
+INSTALL_PROGRAM	src/Makefile	/^INSTALL_PROGRAM = ${INSTALL}$/;"	m
+INSTALL_SCRIPT	Makefile	/^INSTALL_SCRIPT = ${INSTALL}$/;"	m
+INSTALL_SCRIPT	doc/Makefile	/^INSTALL_SCRIPT = ${INSTALL}$/;"	m
+INSTALL_SCRIPT	src/Makefile	/^INSTALL_SCRIPT = ${INSTALL}$/;"	m
+INSTALL_STRIP_PROGRAM	Makefile	/^INSTALL_STRIP_PROGRAM = $(install_sh) -c -s$/;"	m
+INSTALL_STRIP_PROGRAM	doc/Makefile	/^INSTALL_STRIP_PROGRAM = $(install_sh) -c -s$/;"	m
+INSTALL_STRIP_PROGRAM	src/Makefile	/^INSTALL_STRIP_PROGRAM = $(install_sh) -c -s$/;"	m
+LDFLAGS	Makefile	/^LDFLAGS = $/;"	m
+LDFLAGS	doc/Makefile	/^LDFLAGS = $/;"	m
+LDFLAGS	src/Makefile	/^LDFLAGS = $/;"	m
+LIBOBJS	Makefile	/^LIBOBJS = $/;"	m
+LIBOBJS	doc/Makefile	/^LIBOBJS = $/;"	m
+LIBOBJS	src/Makefile	/^LIBOBJS = $/;"	m
+LIBS	Makefile	/^LIBS = $/;"	m
+LIBS	doc/Makefile	/^LIBS = $/;"	m
+LIBS	src/Makefile	/^LIBS = $/;"	m
+LINK	src/Makefile	/^LINK = $(CCLD) $(AM_CFLAGS) $(CFLAGS) $(AM_LDFLAGS) $(LDFLAGS) -o $@$/;"	m
+LTLIBOBJS	Makefile	/^LTLIBOBJS = $/;"	m
+LTLIBOBJS	doc/Makefile	/^LTLIBOBJS = $/;"	m
+LTLIBOBJS	src/Makefile	/^LTLIBOBJS = $/;"	m
+MAKEINFO	Makefile	/^MAKEINFO = ${SHELL} \/root\/DNSServer\/dnrd-2.20.3\/missing --run makeinfo$/;"	m
+MAKEINFO	doc/Makefile	/^MAKEINFO = ${SHELL} \/root\/DNSServer\/dnrd-2.20.3\/missing --run makeinfo$/;"	m
+MAKEINFO	src/Makefile	/^MAKEINFO = ${SHELL} \/root\/DNSServer\/dnrd-2.20.3\/missing --run makeinfo$/;"	m
+MANS	doc/Makefile	/^MANS = $(man_MANS)$/;"	m
+MASK_AA	src/dns.h	44;"	d
+MASK_OPCODE	src/dns.h	45;"	d
+MASK_QR	src/dns.h	46;"	d
+MASK_RA	src/dns.h	41;"	d
+MASK_RCODE	src/dns.h	39;"	d
+MASK_RD	src/dns.h	42;"	d
+MASK_TC	src/dns.h	43;"	d
+MASK_Z	src/dns.h	40;"	d
+MASTERPARM	src/args.c	80;"	d	file:
+MASTERPARM	src/args.c	82;"	d	file:
+MASTER_BLACKLIST	src/master.c	48;"	d	file:
+MASTER_CONFIG	src/master.c	47;"	d	file:
+MAX_GROUPS	src/infnode.c	254;"	d	file:
+MKDIR_P	Makefile	/^MKDIR_P = \/bin\/mkdir -p$/;"	m
+MKDIR_P	doc/Makefile	/^MKDIR_P = \/bin\/mkdir -p$/;"	m
+MKDIR_P	src/Makefile	/^MKDIR_P = \/bin\/mkdir -p$/;"	m
+NORMAL_INSTALL	Makefile	/^NORMAL_INSTALL = :$/;"	m
+NORMAL_INSTALL	doc/Makefile	/^NORMAL_INSTALL = :$/;"	m
+NORMAL_INSTALL	src/Makefile	/^NORMAL_INSTALL = :$/;"	m
+NORMAL_UNINSTALL	Makefile	/^NORMAL_UNINSTALL = :$/;"	m
+NORMAL_UNINSTALL	doc/Makefile	/^NORMAL_UNINSTALL = :$/;"	m
+NORMAL_UNINSTALL	src/Makefile	/^NORMAL_UNINSTALL = :$/;"	m
+NROFF	doc/Makefile	/^NROFF = nroff$/;"	m
+OBJEXT	Makefile	/^OBJEXT = o$/;"	m
+OBJEXT	doc/Makefile	/^OBJEXT = o$/;"	m
+OBJEXT	src/Makefile	/^OBJEXT = o$/;"	m
+OPT_DEBUG	src/common.c	40;"	d	file:
+OPT_DEBUG	src/common.c	42;"	d	file:
+PACKAGE	Makefile	/^PACKAGE = dnrd$/;"	m
+PACKAGE	doc/Makefile	/^PACKAGE = dnrd$/;"	m
+PACKAGE	src/Makefile	/^PACKAGE = dnrd$/;"	m
+PACKAGE	src/config.h	101;"	d
+PACKAGE_BUGREPORT	Makefile	/^PACKAGE_BUGREPORT = dnrd-user@lists.sourceforge.net$/;"	m
+PACKAGE_BUGREPORT	doc/Makefile	/^PACKAGE_BUGREPORT = dnrd-user@lists.sourceforge.net$/;"	m
+PACKAGE_BUGREPORT	src/Makefile	/^PACKAGE_BUGREPORT = dnrd-user@lists.sourceforge.net$/;"	m
+PACKAGE_BUGREPORT	src/config.h	104;"	d
+PACKAGE_NAME	Makefile	/^PACKAGE_NAME = dnrd$/;"	m
+PACKAGE_NAME	doc/Makefile	/^PACKAGE_NAME = dnrd$/;"	m
+PACKAGE_NAME	src/Makefile	/^PACKAGE_NAME = dnrd$/;"	m
+PACKAGE_NAME	src/config.h	107;"	d
+PACKAGE_STRING	Makefile	/^PACKAGE_STRING = dnrd 2.20.3$/;"	m
+PACKAGE_STRING	doc/Makefile	/^PACKAGE_STRING = dnrd 2.20.3$/;"	m
+PACKAGE_STRING	src/Makefile	/^PACKAGE_STRING = dnrd 2.20.3$/;"	m
+PACKAGE_STRING	src/config.h	110;"	d
+PACKAGE_TARNAME	Makefile	/^PACKAGE_TARNAME = dnrd$/;"	m
+PACKAGE_TARNAME	doc/Makefile	/^PACKAGE_TARNAME = dnrd$/;"	m
+PACKAGE_TARNAME	src/Makefile	/^PACKAGE_TARNAME = dnrd$/;"	m
+PACKAGE_TARNAME	src/config.h	113;"	d
+PACKAGE_VERSION	Makefile	/^PACKAGE_VERSION = 2.20.3$/;"	m
+PACKAGE_VERSION	doc/Makefile	/^PACKAGE_VERSION = 2.20.3$/;"	m
+PACKAGE_VERSION	src/Makefile	/^PACKAGE_VERSION = 2.20.3$/;"	m
+PACKAGE_VERSION	src/config.h	116;"	d
+PACKET_ASSEMBLYSIZE	src/master.c	49;"	d	file:
+PACKET_DATABEGIN	src/dns.h	35;"	d
+PATH_SEPARATOR	Makefile	/^PATH_SEPARATOR = :$/;"	m
+PATH_SEPARATOR	doc/Makefile	/^PATH_SEPARATOR = :$/;"	m
+PATH_SEPARATOR	src/Makefile	/^PATH_SEPARATOR = :$/;"	m
+PIDPARM	src/args.c	86;"	d	file:
+PIDPARM	src/args.c	88;"	d	file:
+POST_INSTALL	Makefile	/^POST_INSTALL = :$/;"	m
+POST_INSTALL	doc/Makefile	/^POST_INSTALL = :$/;"	m
+POST_INSTALL	src/Makefile	/^POST_INSTALL = :$/;"	m
+POST_UNINSTALL	Makefile	/^POST_UNINSTALL = :$/;"	m
+POST_UNINSTALL	doc/Makefile	/^POST_UNINSTALL = :$/;"	m
+POST_UNINSTALL	src/Makefile	/^POST_UNINSTALL = :$/;"	m
+PRE_INSTALL	Makefile	/^PRE_INSTALL = :$/;"	m
+PRE_INSTALL	doc/Makefile	/^PRE_INSTALL = :$/;"	m
+PRE_INSTALL	src/Makefile	/^PRE_INSTALL = :$/;"	m
+PRE_UNINSTALL	Makefile	/^PRE_UNINSTALL = :$/;"	m
+PRE_UNINSTALL	doc/Makefile	/^PRE_UNINSTALL = :$/;"	m
+PRE_UNINSTALL	src/Makefile	/^PRE_UNINSTALL = :$/;"	m
+PROGRAMS	src/Makefile	/^PROGRAMS = $(sbin_PROGRAMS)$/;"	m
+QID_POOL_SIZE	src/qid.c	12;"	d	file:
+QUERY_H	src/query.h	29;"	d
+RAND	src/rand.h	18;"	d
+RANDOM_SRC	src/config.h	119;"	d
+RANDSIZ	src/rand.h	20;"	d
+RANDSIZL	src/rand.h	19;"	d
+REACTIVATE_INTERVAL	src/common.h	70;"	d
+RECURSIVE_CLEAN_TARGETS	Makefile	/^RECURSIVE_CLEAN_TARGETS = mostlyclean-recursive clean-recursive	\\$/;"	m
+RECURSIVE_TARGETS	Makefile	/^RECURSIVE_TARGETS = all-recursive check-recursive dvi-recursive \\$/;"	m
+RETSIGTYPE	src/config.h	122;"	d
+RR_LABELMAXLEN	src/dns.h	66;"	d
+RR_LABELSIZE	src/dns.h	67;"	d
+RR_NAMEMAXLEN	src/dns.h	68;"	d
+RR_NAMESIZE	src/dns.h	69;"	d
+SB1MAXVAL	src/standard.h	35;"	d
+SB2MAXVAL	src/standard.h	30;"	d
+SB4MAXVAL	src/standard.h	25;"	d
+SB8MAXVAL	src/standard.h	20;"	d
+SELECT_TIMEOUT	src/common.h	48;"	d
+SET_AA	src/dns.h	61;"	d
+SET_MAKE	Makefile	/^SET_MAKE = $/;"	m
+SET_MAKE	doc/Makefile	/^SET_MAKE = $/;"	m
+SET_MAKE	src/Makefile	/^SET_MAKE = $/;"	m
+SET_OPCODE	src/dns.h	62;"	d
+SET_QR	src/dns.h	64;"	d
+SET_RA	src/dns.h	58;"	d
+SET_RCODE	src/dns.h	57;"	d
+SET_RD	src/dns.h	59;"	d
+SET_TC	src/dns.h	60;"	d
+SHELL	Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	doc/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	src/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SOURCES	Makefile	/^SOURCES =$/;"	m
+SOURCES	doc/Makefile	/^SOURCES =$/;"	m
+SOURCES	src/Makefile	/^SOURCES = $(dnrd_SOURCES)$/;"	m
+SRVNODE_H	src/srvnode.h	26;"	d
+STANDARD	src/standard.h	7;"	d
+STDC_HEADERS	src/config.h	125;"	d
+STDDEF	src/standard.h	14;"	d
+STDIO	src/standard.h	10;"	d
+STRIP	Makefile	/^STRIP = $/;"	m
+STRIP	doc/Makefile	/^STRIP = $/;"	m
+STRIP	src/Makefile	/^STRIP = $/;"	m
+SUBDIRS	Makefile	/^SUBDIRS = src doc$/;"	m
+SUCCESS	src/standard.h	55;"	d
+TCP_EXIT	src/tcp.c	50;"	d	file:
+TCP_EXIT	src/tcp.c	52;"	d	file:
+THREAD_CFLAGS	Makefile	/^THREAD_CFLAGS = $/;"	m
+THREAD_CFLAGS	doc/Makefile	/^THREAD_CFLAGS = $/;"	m
+THREAD_CFLAGS	src/Makefile	/^THREAD_CFLAGS = $/;"	m
+THREAD_LIBS	Makefile	/^THREAD_LIBS = -lpthread$/;"	m
+THREAD_LIBS	doc/Makefile	/^THREAD_LIBS = -lpthread$/;"	m
+THREAD_LIBS	src/Makefile	/^THREAD_LIBS = -lpthread$/;"	m
+TIME_WITH_SYS_TIME	src/config.h	128;"	d
+TRUE	src/standard.h	53;"	d
+UB1BITS	src/standard.h	33;"	d
+UB1MAXVAL	src/standard.h	32;"	d
+UB2BITS	src/standard.h	28;"	d
+UB2MAXVAL	src/standard.h	27;"	d
+UB4BITS	src/standard.h	24;"	d
+UB4MAXVAL	src/standard.h	22;"	d
+UB8BITS	src/standard.h	18;"	d
+UB8MAXVAL	src/standard.h	17;"	d
+UDP_MAXSIZE	src/check.h	29;"	d
+UIDPARM	src/args.c	92;"	d	file:
+UIDPARM	src/args.c	94;"	d	file:
+VERSION	Makefile	/^VERSION = 2.20.3$/;"	m
+VERSION	doc/Makefile	/^VERSION = 2.20.3$/;"	m
+VERSION	src/Makefile	/^VERSION = 2.20.3$/;"	m
+VERSION	src/config.h	131;"	d
+_DNRD_ARGS_H_	src/args.h	22;"	d
+_DNRD_CACHE_H_	src/cache.h	24;"	d
+_DNRD_CHECK_H_	src/check.h	24;"	d
+_DNRD_COMMON_H_	src/common.h	24;"	d
+_DNRD_DNS_H_	src/dns.h	25;"	d
+_DNRD_MASTER_H_	src/master.h	25;"	d
+_DNRD_RELAY_H_	src/relay.h	22;"	d
+_DNRD_SIG_H_	src/sig.h	22;"	d
+_DNRD_TCP_H_	src/tcp.h	22;"	d
+_DNRD_UDP_H_	src/udp.h	22;"	d
+_GNU_SOURCE	src/config.h	134;"	d
+_GNU_SOURCE	src/lib.c	28;"	d	file:
+_GNU_SOURCE	src/master.c	32;"	d	file:
+_LIB_INCLUDED	src/lib.h	24;"	d
+_cache	src/cache.c	/^typedef struct _cache {$/;"	s	file:
+_dnsrec	src/master.c	/^typedef struct _dnsrec {$/;"	s	file:
+_header	src/dns.h	/^typedef struct _header {$/;"	s
+_infnode	src/infnode.h	/^typedef struct _infnode {$/;"	s
+_nameip	src/master.c	/^typedef struct _nameip {$/;"	s	file:
+_query	src/query.h	/^typedef struct _query {$/;"	s
+_rr	src/dns.h	/^typedef struct _rr {$/;"	s
+_special_hosts	src/common.h	/^typedef struct _special_hosts$/;"	s
+_srvnode	src/srvnode.h	/^typedef struct _srvnode {$/;"	s
+_string	src/master.c	/^typedef struct _string {$/;"	s	file:
+abs	src/standard.h	51;"	d
+abs_builddir	Makefile	/^abs_builddir = \/root\/DNSServer\/dnrd-2.20.3$/;"	m
+abs_builddir	doc/Makefile	/^abs_builddir = \/root\/DNSServer\/dnrd-2.20.3\/doc$/;"	m
+abs_builddir	src/Makefile	/^abs_builddir = \/root\/DNSServer\/dnrd-2.20.3\/src$/;"	m
+abs_srcdir	Makefile	/^abs_srcdir = \/root\/DNSServer\/dnrd-2.20.3$/;"	m
+abs_srcdir	doc/Makefile	/^abs_srcdir = \/root\/DNSServer\/dnrd-2.20.3\/doc$/;"	m
+abs_srcdir	src/Makefile	/^abs_srcdir = \/root\/DNSServer\/dnrd-2.20.3\/src$/;"	m
+abs_top_builddir	Makefile	/^abs_top_builddir = \/root\/DNSServer\/dnrd-2.20.3$/;"	m
+abs_top_builddir	doc/Makefile	/^abs_top_builddir = \/root\/DNSServer\/dnrd-2.20.3$/;"	m
+abs_top_builddir	src/Makefile	/^abs_top_builddir = \/root\/DNSServer\/dnrd-2.20.3$/;"	m
+abs_top_srcdir	Makefile	/^abs_top_srcdir = \/root\/DNSServer\/dnrd-2.20.3$/;"	m
+abs_top_srcdir	doc/Makefile	/^abs_top_srcdir = \/root\/DNSServer\/dnrd-2.20.3$/;"	m
+abs_top_srcdir	src/Makefile	/^abs_top_srcdir = \/root\/DNSServer\/dnrd-2.20.3$/;"	m
+ac_ct_CC	Makefile	/^ac_ct_CC = gcc$/;"	m
+ac_ct_CC	doc/Makefile	/^ac_ct_CC = gcc$/;"	m
+ac_ct_CC	src/Makefile	/^ac_ct_CC = gcc$/;"	m
+add_authority	src/master.c	/^static dnsrec_t *add_authority(char *domain, const int maxlen)$/;"	f	file:
+add_dns	src/master.c	/^static dnsrec_t *add_dns(char *domain, const int maxdomainlen, $/;"	f	file:
+add_interface	src/infnode.c	/^infnode_t *add_interface(infnode_t *list, char *cname, const int maxlen)$/;"	f
+add_nameip	src/master.c	/^static dnsrec_t *add_nameip(char *name, const int maxlen, char *ipnum)$/;"	f	file:
+add_record	src/master.c	/^static dnsrec_t *add_record(dnsrec_t *rec)$/;"	f	file:
+add_srv	src/srvnode.c	/^srvnode_t *add_srv(srvnode_t *head, const char *ipaddr) {$/;"	f
+addr	src/common.h	/^  struct sockaddr_in     addr;      \/* IP address of server *\/$/;"	m	struct:dnssrv_t	typeref:struct:dnssrv_t::sockaddr_in
+addr	src/srvnode.h	/^  struct sockaddr_in  addr;      \/* IP address of server *\/$/;"	m	struct:_srvnode	typeref:struct:_srvnode::sockaddr_in
+alarm_handler	src/tcp.c	/^static void alarm_handler(int dummy)$/;"	f	file:
+align	src/standard.h	48;"	d
+alloc_dnsrec	src/master.c	/^static dnsrec_t *alloc_dnsrec(char *name, const int maxlen)$/;"	f	file:
+alloc_infnode	src/infnode.c	/^infnode_t *alloc_infnode(void) {$/;"	f
+alloc_packet	src/dns.c	/^static dnsheader_t *alloc_packet(void *packet, int len)$/;"	f	file:
+alloc_srvnode	src/srvnode.c	/^srvnode_t *alloc_srvnode(void) {$/;"	f
+allocate	src/lib.c	/^void *allocate(size_t size)$/;"	f
+am__CONFIG_DISTCLEAN_FILES	Makefile	/^am__CONFIG_DISTCLEAN_FILES = config.status config.cache config.log \\$/;"	m
+am__aclocal_m4_deps	Makefile	/^am__aclocal_m4_deps = $(top_srcdir)\/configure.in$/;"	m
+am__aclocal_m4_deps	doc/Makefile	/^am__aclocal_m4_deps = $(top_srcdir)\/configure.in$/;"	m
+am__aclocal_m4_deps	src/Makefile	/^am__aclocal_m4_deps = $(top_srcdir)\/configure.in$/;"	m
+am__base_list	Makefile	/^am__base_list = \\$/;"	m
+am__base_list	doc/Makefile	/^am__base_list = \\$/;"	m
+am__cd	Makefile	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR)" && cd$/;"	m
+am__cd	doc/Makefile	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR)" && cd$/;"	m
+am__cd	src/Makefile	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR)" && cd$/;"	m
+am__configure_deps	Makefile	/^am__configure_deps = $(am__aclocal_m4_deps) $(CONFIGURE_DEPENDENCIES) \\$/;"	m
+am__configure_deps	doc/Makefile	/^am__configure_deps = $(am__aclocal_m4_deps) $(CONFIGURE_DEPENDENCIES) \\$/;"	m
+am__configure_deps	src/Makefile	/^am__configure_deps = $(am__aclocal_m4_deps) $(CONFIGURE_DEPENDENCIES) \\$/;"	m
+am__depfiles_maybe	src/Makefile	/^am__depfiles_maybe = depfiles$/;"	m
+am__include	Makefile	/^am__include = include$/;"	m
+am__include	doc/Makefile	/^am__include = include$/;"	m
+am__include	src/Makefile	/^am__include = include$/;"	m
+am__install_max	Makefile	/^am__install_max = 40$/;"	m
+am__install_max	doc/Makefile	/^am__install_max = 40$/;"	m
+am__installdirs	Makefile	/^am__installdirs = "$(DESTDIR)$(docdir)"$/;"	m
+am__installdirs	doc/Makefile	/^am__installdirs = "$(DESTDIR)$(man8dir)" "$(DESTDIR)$(docdir)"$/;"	m
+am__installdirs	src/Makefile	/^am__installdirs = "$(DESTDIR)$(sbindir)"$/;"	m
+am__leading_dot	Makefile	/^am__leading_dot = .$/;"	m
+am__leading_dot	doc/Makefile	/^am__leading_dot = .$/;"	m
+am__leading_dot	src/Makefile	/^am__leading_dot = .$/;"	m
+am__mv	src/Makefile	/^am__mv = mv -f$/;"	m
+am__nobase_list	Makefile	/^am__nobase_list = $(am__nobase_strip_setup); \\$/;"	m
+am__nobase_list	doc/Makefile	/^am__nobase_list = $(am__nobase_strip_setup); \\$/;"	m
+am__nobase_strip	Makefile	/^am__nobase_strip = \\$/;"	m
+am__nobase_strip	doc/Makefile	/^am__nobase_strip = \\$/;"	m
+am__nobase_strip_setup	Makefile	/^am__nobase_strip_setup = \\$/;"	m
+am__nobase_strip_setup	doc/Makefile	/^am__nobase_strip_setup = \\$/;"	m
+am__quote	Makefile	/^am__quote = $/;"	m
+am__quote	doc/Makefile	/^am__quote = $/;"	m
+am__quote	src/Makefile	/^am__quote = $/;"	m
+am__relativize	Makefile	/^am__relativize = \\$/;"	m
+am__remove_distdir	Makefile	/^am__remove_distdir = \\$/;"	m
+am__strip_dir	Makefile	/^am__strip_dir = f=`echo $$p | sed -e 's|^.*\/||'`;$/;"	m
+am__strip_dir	doc/Makefile	/^am__strip_dir = f=`echo $$p | sed -e 's|^.*\/||'`;$/;"	m
+am__tar	Makefile	/^am__tar = ${AMTAR} chof - "$$tardir"$/;"	m
+am__tar	doc/Makefile	/^am__tar = ${AMTAR} chof - "$$tardir"$/;"	m
+am__tar	src/Makefile	/^am__tar = ${AMTAR} chof - "$$tardir"$/;"	m
+am__untar	Makefile	/^am__untar = ${AMTAR} xf -$/;"	m
+am__untar	doc/Makefile	/^am__untar = ${AMTAR} xf -$/;"	m
+am__untar	src/Makefile	/^am__untar = ${AMTAR} xf -$/;"	m
+am__vpath_adj	Makefile	/^am__vpath_adj = case $$p in \\$/;"	m
+am__vpath_adj	doc/Makefile	/^am__vpath_adj = case $$p in \\$/;"	m
+am__vpath_adj_setup	Makefile	/^am__vpath_adj_setup = srcdirstrip=`echo "$(srcdir)" | sed 's|.|.|g'`;$/;"	m
+am__vpath_adj_setup	doc/Makefile	/^am__vpath_adj_setup = srcdirstrip=`echo "$(srcdir)" | sed 's|.|.|g'`;$/;"	m
+am_dnrd_OBJECTS	src/Makefile	/^am_dnrd_OBJECTS = args.$(OBJEXT) cache.$(OBJEXT) common.$(OBJEXT) \\$/;"	m
+ancount	src/dns.h	/^    short int	ancount;$/;"	m	struct:_header
+append_cx	src/cache.c	/^static cache_t *append_cx(cache_t *cx)$/;"	f	file:
+arcount	src/dns.h	/^    short int	arcount;	\/* Till here it would fit perfectly to a real$/;"	m	struct:_header
+arpa	src/master.c	/^    string_t	arpa;$/;"	m	struct:_nameip	file:
+as_func_failure	configure	/^as_func_failure () {$/;"	f
+as_func_ret_failure	configure	/^as_func_ret_failure () {$/;"	f
+as_func_ret_success	configure	/^as_func_ret_success () {$/;"	f
+as_func_success	configure	/^as_func_success () {$/;"	f
+authority_lookup	src/master.c	/^static dnsrec_t *authority_lookup(char *domain)$/;"	f	file:
+auto_authority	src/master.c	/^static int auto_authority	= 1;$/;"	v	file:
+begin_assembly	src/master.c	/^static dnsheader_t *begin_assembly(rr_t *query)$/;"	f	file:
+bic	src/standard.h	39;"	d
+bind_sock2inf	src/udp.c	/^int bind_sock2inf(int sock, char *inf_name)$/;"	f
+bindir	Makefile	/^bindir = ${exec_prefix}\/bin$/;"	m
+bindir	doc/Makefile	/^bindir = ${exec_prefix}\/bin$/;"	m
+bindir	src/Makefile	/^bindir = ${exec_prefix}\/bin$/;"	m
+bis	src/standard.h	38;"	d
+bit	src/standard.h	40;"	d
+blacklist	src/master.c	/^char blacklist[256]             = MASTER_BLACKLIST;$/;"	v
+build	Makefile	/^build = i686-pc-linux-gnu$/;"	m
+build	doc/Makefile	/^build = i686-pc-linux-gnu$/;"	m
+build	src/Makefile	/^build = i686-pc-linux-gnu$/;"	m
+build_alias	Makefile	/^build_alias = $/;"	m
+build_alias	doc/Makefile	/^build_alias = $/;"	m
+build_alias	src/Makefile	/^build_alias = $/;"	m
+build_cpu	Makefile	/^build_cpu = i686$/;"	m
+build_cpu	doc/Makefile	/^build_cpu = i686$/;"	m
+build_cpu	src/Makefile	/^build_cpu = i686$/;"	m
+build_os	Makefile	/^build_os = linux-gnu$/;"	m
+build_os	doc/Makefile	/^build_os = linux-gnu$/;"	m
+build_os	src/Makefile	/^build_os = linux-gnu$/;"	m
+build_triplet	Makefile	/^build_triplet = i686-pc-linux-gnu$/;"	m
+build_triplet	doc/Makefile	/^build_triplet = i686-pc-linux-gnu$/;"	m
+build_triplet	src/Makefile	/^build_triplet = i686-pc-linux-gnu$/;"	m
+build_vendor	Makefile	/^build_vendor = pc$/;"	m
+build_vendor	doc/Makefile	/^build_vendor = pc$/;"	m
+build_vendor	src/Makefile	/^build_vendor = pc$/;"	m
+builddir	Makefile	/^builddir = .$/;"	m
+builddir	doc/Makefile	/^builddir = .$/;"	m
+builddir	src/Makefile	/^builddir = .$/;"	m
+cache_dnspacket	src/cache.c	/^int cache_dnspacket(void *packet, int len, srvnode_t *server)$/;"	f
+cache_expire	src/cache.c	/^int cache_expire(void)$/;"	f
+cache_highwater	src/cache.c	/^long	cache_highwater		= CACHE_HIGHWATER;$/;"	v
+cache_hits	src/cache.c	/^int cache_hits		  = 0;$/;"	v
+cache_init	src/cache.c	/^int cache_init(void)$/;"	f
+cache_lookup	src/cache.c	/^int cache_lookup(void *packet, int len)$/;"	f
+cache_lowwater	src/cache.c	/^long	cache_lowwater		= CACHE_LOWWATER;$/;"	v
+cache_misses	src/cache.c	/^int cache_misses		= 0;$/;"	v
+cache_onoff	src/cache.c	/^int	cache_onoff		= 1;$/;"	v
+cache_param	src/cache.c	/^char	cache_param[256]	= "";$/;"	v
+cache_t	src/cache.c	/^} cache_t;$/;"	t	typeref:struct:_cache	file:
+cached_fail_msg	src/query.h	/^  char *cached_fail_msg;$/;"	m	struct:_query
+cachelist	src/cache.c	/^static cache_t *cachelist	= NULL;$/;"	v	file:
+check_query	src/check.c	/^int check_query(void *msg, int len) {$/;"	f
+check_reply	src/check.c	/^int check_reply(srvnode_t *s, void *msg, int len) {$/;"	f
+check_replycode	src/dns.c	/^int check_replycode(unsigned char *packet, int len)$/;"	f
+class	src/cache.c	/^    int		  type, class;	\/* Query type and class. *\/$/;"	m	struct:_cache	file:
+cleanexit	src/common.c	/^void cleanexit(int status)$/;"	f
+clear_srvlist	src/srvnode.c	/^srvnode_t *clear_srvlist(srvnode_t *head) {$/;"	f
+client	src/query.h	/^  struct sockaddr_in client; \/* *\/$/;"	m	struct:_query	typeref:struct:_query::sockaddr_in
+client	src/tcp.c	/^    struct sockaddr_in client;$/;"	m	struct:tcp_handle_info	typeref:struct:tcp_handle_info::sockaddr_in	file:
+client_count	src/query.h	/^  int client_count; \/* number of times we got this same request *\/$/;"	m	struct:_query
+client_qid	src/query.h	/^  unsigned short client_qid; \/* the qid from the client *\/$/;"	m	struct:_query
+client_time	src/query.h	/^  time_t client_time; \/* last time we got this query from client *\/$/;"	m	struct:_query
+cmp_cachemru	src/cache.c	/^static int cmp_cachemru(const void *x, const void * y)$/;"	f	file:
+cname2asc	src/common.c	/^char *cname2asc(const char *cname) {$/;"	f
+code	src/cache.c	/^    unsigned int  code;$/;"	m	struct:_cache	file:
+code	src/master.c	/^    unsigned int code;$/;"	m	struct:_string	file:
+compile_dnsrecords	src/master.c	/^static int compile_dnsrecords(dnsheader_t *x, char *object)$/;"	f	file:
+compile_int	src/master.c	/^static unsigned char *compile_int(dnsheader_t *x, int number)$/;"	f	file:
+compile_long	src/master.c	/^static unsigned char *compile_long(dnsheader_t *x, long number)$/;"	f	file:
+compile_name	src/master.c	/^static int compile_name(dnsheader_t *x, char *name)$/;"	f	file:
+compile_namepointer	src/master.c	/^static int compile_namepointer(dnsheader_t *x, int offset)$/;"	f	file:
+compile_objectname	src/master.c	/^static unsigned char *compile_objectname(dnsheader_t *x)$/;"	f	file:
+config_file	src/common.c	/^char                config_file[512] = DNRD_ROOT "\/" CONFIG_FILE;$/;"	v
+connect	src/tcp.c	/^    int	               connect;$/;"	m	struct:tcp_handle_info	file:
+copy_string	src/lib.c	/^char *copy_string(char *y, char *x, int len)$/;"	f
+create_cx	src/cache.c	/^static cache_t *create_cx(dnsheader_t *x, rr_t *query, srvnode_t *server)$/;"	f	file:
+create_nameip	src/master.c	/^static int create_nameip(nameip_t *nameip, const int maxnamelen, char *ip)$/;"	f	file:
+created	src/cache.c	/^    unsigned long created;$/;"	m	struct:_cache	file:
+curr_if	src/infnode.c	/^char curr_if[10][10];$/;"	v
+current	src/infnode.h	/^  srvnode_t       *current;$/;"	m	struct:_infnode
+current_index	src/infnode.c	/^int current_index;$/;"	v
+daemongid	src/common.c	/^gid_t               daemongid = 0;$/;"	v
+daemonuid	src/common.c	/^uid_t               daemonuid = 0;$/;"	v
+data	src/dns.h	/^    char	  data[RR_NAMESIZE];$/;"	m	struct:_rr
+datadir	Makefile	/^datadir = ${datarootdir}$/;"	m
+datadir	doc/Makefile	/^datadir = ${datarootdir}$/;"	m
+datadir	src/Makefile	/^datadir = ${datarootdir}$/;"	m
+datarootdir	Makefile	/^datarootdir = ${prefix}\/share$/;"	m
+datarootdir	doc/Makefile	/^datarootdir = ${prefix}\/share$/;"	m
+datarootdir	src/Makefile	/^datarootdir = ${prefix}\/share$/;"	m
+dbc	src/master.c	/^static int dbc =		0;$/;"	v	file:
+dbmax	src/master.c	/^static int dbmax =		0;$/;"	v	file:
+dbv	src/master.c	/^static dnsrec_t	**dbv =		NULL;$/;"	v	file:
+deactivate_current	src/infnode.c	/^srvnode_t *deactivate_current(infnode_t *i) {$/;"	f
+deactivate_servers	src/relay.c	/^static void deactivate_servers(int interval) {$/;"	f	file:
+decode_header	src/dns.c	/^static dnsheader_t *decode_header(void *packet, int len)$/;"	f	file:
+def_inf_count	src/common.c	/^int                 def_inf_count;$/;"	v
+def_inf_list	src/common.c	/^char                def_inf_list[30][10];$/;"	v
+del_infnode	src/infnode.c	/^infnode_t *del_infnode(infnode_t *list) {$/;"	f
+del_srvnode_after	src/srvnode.c	/^srvnode_t *del_srvnode_after(srvnode_t *list) {$/;"	f
+depcomp	src/Makefile	/^depcomp = $(SHELL) $(top_srcdir)\/depcomp$/;"	m
+destroy_inflist	src/infnode.c	/^infnode_t *destroy_inflist(infnode_t *head) {$/;"	f
+destroy_infnode	src/infnode.c	/^infnode_t *destroy_infnode(infnode_t *i) {$/;"	f
+destroy_srvlist	src/srvnode.c	/^srvnode_t *destroy_srvlist(srvnode_t *head) {$/;"	f
+destroy_srvnode	src/srvnode.c	/^srvnode_t *destroy_srvnode(srvnode_t *p) {$/;"	f
+distcleancheck_listfiles	Makefile	/^distcleancheck_listfiles = find . -type f -print$/;"	m
+distdir	Makefile	/^distdir = $(PACKAGE)-$(VERSION)$/;"	m
+distuninstallcheck_listfiles	Makefile	/^distuninstallcheck_listfiles = find . -type f -print$/;"	m
+dnrd_DEPENDENCIES	src/Makefile	/^dnrd_DEPENDENCIES =$/;"	m
+dnrd_LDADD	src/Makefile	/^dnrd_LDADD = -lpthread$/;"	m
+dnrd_OBJECTS	src/Makefile	/^dnrd_OBJECTS = $(am_dnrd_OBJECTS)$/;"	m
+dnrd_SOURCES	src/Makefile	/^dnrd_SOURCES = args.c args.h cache.c cache.h common.c common.h dns.c dns.h lib.c lib.h main.c master.c master.h query.c query.h relay.c relay.h sig.c sig.h tcp.c tcp.h udp.c udp.h srvnode.h srvnode.c standard.h rand.h rand.c qid.h qid.c check.c check.h infnode.c infnode.h$/;"	m
+dnrd_group	src/common.c	/^char                dnrd_group[256] = "root"; \/\/"dnrd";$/;"	v
+dnrd_root	src/common.c	/^char                dnrd_root[512] = DNRD_ROOT;$/;"	v
+dnrd_root_sanity_check	src/main.c	/^static void dnrd_root_sanity_check(void) {$/;"	f	file:
+dnrd_sem	src/common.c	/^sem_t               dnrd_sem;  \/* Used for all thread synchronization *\/$/;"	v
+dnrd_user	src/common.c	/^char                dnrd_user[256] = "root"; \/\/"dnrd";$/;"	v
+dns	src/master.c	/^	string_t	dns;$/;"	m	union:_dnsrec::__anon1	file:
+dns_lookup	src/master.c	/^static dnsrec_t *dns_lookup(char *name, int *last)$/;"	f	file:
+dnsheader_t	src/dns.h	/^} dnsheader_t;$/;"	t	typeref:struct:_header
+dnsrec_t	src/master.c	/^} dnsrec_t;$/;"	t	typeref:struct:_dnsrec	file:
+dnssrv_t	src/common.h	/^struct dnssrv_t {$/;"	s
+doc_DATA	Makefile	/^doc_DATA = AUTHORS COPYING ChangeLog README NEWS$/;"	m
+doc_DATA	doc/Makefile	/^doc_DATA = README-cache README-master README-cygwin master.sample$/;"	m
+docdir	Makefile	/^docdir = $(datadir)\/doc\/$(PACKAGE)$/;"	m
+docdir	doc/Makefile	/^docdir = $(datadir)\/doc\/$(PACKAGE)$/;"	m
+docdir	src/Makefile	/^docdir = ${datarootdir}\/doc\/${PACKAGE_TARNAME}$/;"	m
+domain	src/common.h	/^  char*                  domain;    \/* optional domain to match.  Set to$/;"	m	struct:dnssrv_t
+dropping	src/query.c	/^static int dropping = 0; \/* dropping new packets *\/$/;"	v	file:
+dump_dnspacket	src/dns.c	/^int dump_dnspacket(char *type, unsigned char *packet, int len)$/;"	f
+dvidir	Makefile	/^dvidir = ${docdir}$/;"	m
+dvidir	doc/Makefile	/^dvidir = ${docdir}$/;"	m
+dvidir	src/Makefile	/^dvidir = ${docdir}$/;"	m
+empty_inflist	src/infnode.c	/^infnode_t *empty_inflist(infnode_t *head) {$/;"	f
+end_assembly	src/master.c	/^static int end_assembly(dnsheader_t *x)$/;"	f	file:
+end_rdata	src/master.c	/^static int end_rdata(dnsheader_t *x)$/;"	f	file:
+exc_port	src/common.c	/^int                 exc_port[30];$/;"	v
+exc_port_ofst	src/common.c	/^int                 exc_port_ofst;$/;"	v
+exec_prefix	Makefile	/^exec_prefix = ${prefix}$/;"	m
+exec_prefix	doc/Makefile	/^exec_prefix = ${prefix}$/;"	m
+exec_prefix	src/Makefile	/^exec_prefix = ${prefix}$/;"	m
+expire_oldest	src/cache.c	/^static int expire_oldest(int itemcount)$/;"	f	file:
+expires	src/cache.c	/^    unsigned long expires;$/;"	m	struct:_cache	file:
+fail_msg_len	src/query.h	/^  int  fail_msg_len;$/;"	m	struct:_query
+fdmaster	src/common.c	/^fd_set              fdmaster;$/;"	v
+file_exists	src/args.c	97;"	d	file:
+flags	src/dns.h	/^    unsigned short      flags;$/;"	m	struct:_rr
+forward_timeout	src/common.c	/^int                 forward_timeout = FORWARD_TIMEOUT;$/;"	v
+free_cx	src/cache.c	/^static int free_cx(cache_t *cx)$/;"	f	file:
+free_dnsrec	src/master.c	/^static int free_dnsrec(dnsrec_t *rec)$/;"	f	file:
+free_packet	src/dns.c	/^int free_packet(dnsheader_t *x)$/;"	f
+get_hostname	src/master.c	/^char *get_hostname(char **from, char *domain, char *name, int size)$/;"	f
+get_objname	src/dns.c	/^static int get_objname(const unsigned char *msg, const int msgsize, int index,$/;"	f	file:
+get_quoted	src/lib.c	/^char *get_quoted(char **from, int delim, char *to, int max)$/;"	f
+get_stringcode	src/lib.c	/^unsigned int get_stringcode(char *string)$/;"	f
+get_typestr	src/common.c	/^const char *get_typestr(int type) {$/;"	f
+get_word	src/lib.c	/^char *get_word(char **from, char *to, int maxlen)$/;"	f
+give_help	src/args.c	/^static void give_help()$/;"	f	file:
+gotterminal	src/common.c	/^int                 gotterminal = 1; \/* 1 if attached to a terminal *\/$/;"	v
+group	src/infnode.c	/^char group[100][40]; \/* Array of unique ip addresses *\/$/;"	v
+group_cnt	src/infnode.c	/^int group_cnt;      \/* Count of unique IP's *\/$/;"	v
+handle_query	src/relay.c	/^int handle_query(const struct sockaddr_in *fromaddrp, char *msg, int *len,$/;"	f
+hash_array	src/infnode.c	/^unsigned int hash_array[MAX_GROUPS];$/;"	v
+here	src/dns.h	/^    char	*here;		\/* For packet parsing. *\/$/;"	m	struct:_header
+host	Makefile	/^host = i686-pc-linux-gnu$/;"	m
+host	doc/Makefile	/^host = i686-pc-linux-gnu$/;"	m
+host	src/Makefile	/^host = i686-pc-linux-gnu$/;"	m
+host_alias	Makefile	/^host_alias = $/;"	m
+host_alias	doc/Makefile	/^host_alias = $/;"	m
+host_alias	src/Makefile	/^host_alias = $/;"	m
+host_cpu	Makefile	/^host_cpu = i686$/;"	m
+host_cpu	doc/Makefile	/^host_cpu = i686$/;"	m
+host_cpu	src/Makefile	/^host_cpu = i686$/;"	m
+host_name	src/common.h	/^  char host_name[30];$/;"	m	struct:_special_hosts
+host_os	Makefile	/^host_os = linux-gnu$/;"	m
+host_os	doc/Makefile	/^host_os = linux-gnu$/;"	m
+host_os	src/Makefile	/^host_os = linux-gnu$/;"	m
+host_triplet	Makefile	/^host_triplet = i686-pc-linux-gnu$/;"	m
+host_triplet	doc/Makefile	/^host_triplet = i686-pc-linux-gnu$/;"	m
+host_triplet	src/Makefile	/^host_triplet = i686-pc-linux-gnu$/;"	m
+host_vendor	Makefile	/^host_vendor = pc$/;"	m
+host_vendor	doc/Makefile	/^host_vendor = pc$/;"	m
+host_vendor	src/Makefile	/^host_vendor = pc$/;"	m
+htmldir	Makefile	/^htmldir = ${docdir}$/;"	m
+htmldir	doc/Makefile	/^htmldir = ${docdir}$/;"	m
+htmldir	src/Makefile	/^htmldir = ${docdir}$/;"	m
+id	src/dns.h	/^    unsigned short int	id;$/;"	m	struct:_header
+if_index	src/infnode.c	/^int if_index;$/;"	v
+ignore_inactive_cache_hits	src/common.c	/^int                 ignore_inactive_cache_hits = 0; $/;"	v
+inactive	src/srvnode.h	/^  time_t              inactive; \/* is this server active? *\/$/;"	m	struct:_srvnode
+includedir	Makefile	/^includedir = ${prefix}\/include$/;"	m
+includedir	doc/Makefile	/^includedir = ${prefix}\/include$/;"	m
+includedir	src/Makefile	/^includedir = ${prefix}\/include$/;"	m
+ind	src/rand.c	19;"	d	file:
+inf	src/infnode.h	/^  char            *inf;  \/* the interface name *\/$/;"	m	struct:_infnode
+inf_list	src/common.c	/^infnode_t           *inf_list;$/;"	v
+inf_name	src/common.h	/^  char inf_name[10];$/;"	m	struct:_special_hosts
+infnode_t	src/infnode.h	/^} infnode_t;$/;"	t	typeref:struct:_infnode
+infodir	Makefile	/^infodir = ${datarootdir}\/info$/;"	m
+infodir	doc/Makefile	/^infodir = ${datarootdir}\/info$/;"	m
+infodir	src/Makefile	/^infodir = ${datarootdir}\/info$/;"	m
+init_dnrd_uid	src/main.c	/^static void init_dnrd_uid(void) {$/;"	f	file:
+init_dns	src/dns.c	/^void init_dns(void) {$/;"	f
+init_sig_handler	src/sig.c	/^void init_sig_handler(sigset_t *orig_sigmask) {$/;"	f
+init_socket	src/main.c	/^void init_socket(void) {$/;"	f
+init_srvlist	src/srvnode.c	/^srvnode_t *init_srvlist(void) {$/;"	f
+ins_infnode	src/infnode.c	/^infnode_t *ins_infnode(infnode_t *list, infnode_t *i) {$/;"	f
+ins_srvnode	src/srvnode.c	/^srvnode_t *ins_srvnode (srvnode_t *list, srvnode_t *p) {$/;"	f
+install_sh	Makefile	/^install_sh = ${SHELL} \/root\/DNSServer\/dnrd-2.20.3\/install-sh$/;"	m
+install_sh	doc/Makefile	/^install_sh = ${SHELL} \/root\/DNSServer\/dnrd-2.20.3\/install-sh$/;"	m
+install_sh	src/Makefile	/^install_sh = ${SHELL} \/root\/DNSServer\/dnrd-2.20.3\/install-sh$/;"	m
+install_sh_DATA	Makefile	/^install_sh_DATA = $(install_sh) -c -m 644$/;"	m
+install_sh_DATA	doc/Makefile	/^install_sh_DATA = $(install_sh) -c -m 644$/;"	m
+install_sh_DATA	src/Makefile	/^install_sh_DATA = $(install_sh) -c -m 644$/;"	m
+install_sh_PROGRAM	Makefile	/^install_sh_PROGRAM = $(install_sh) -c$/;"	m
+install_sh_PROGRAM	doc/Makefile	/^install_sh_PROGRAM = $(install_sh) -c$/;"	m
+install_sh_PROGRAM	src/Makefile	/^install_sh_PROGRAM = $(install_sh) -c$/;"	m
+install_sh_SCRIPT	Makefile	/^install_sh_SCRIPT = $(install_sh) -c$/;"	m
+install_sh_SCRIPT	doc/Makefile	/^install_sh_SCRIPT = $(install_sh) -c$/;"	m
+install_sh_SCRIPT	src/Makefile	/^install_sh_SCRIPT = $(install_sh) -c$/;"	m
+ip_open	src/tcp.c	/^static int ip_open(struct sockaddr_in server, unsigned int port)$/;"	f	file:
+ipnum	src/master.c	/^    unsigned long ipnum;$/;"	m	struct:_nameip	file:
+is_curr_inf_default	src/udp.c	/^int is_curr_inf_default(char *i_name)$/;"	f
+is_dummy	src/query.h	/^  int is_dummy; \/* To differentiate between actual queries from clients or health check dummy queries *\/$/;"	m	struct:_query
+is_duplicate	src/infnode.c	/^int is_duplicate(unsigned int ip)$/;"	f
+is_if_duplicate	src/infnode.c	/^char *is_if_duplicate( char *if_name)$/;"	f
+is_port_excluded	src/query.c	/^int is_port_excluded(int port)$/;"	f
+is_writeable	src/main.c	/^static int is_writeable (const struct stat* st)$/;"	f	file:
+isaac	src/rand.c	/^void     isaac(ctx)$/;"	f
+isaac_ctx	src/qid.c	/^static randctx isaac_ctx;$/;"	v	file:
+isock	src/common.c	/^int                 isock = -1;$/;"	v
+isrunning	src/common.c	/^int isrunning(int pid) {$/;"	f
+kill_current	src/common.c	/^int kill_current()$/;"	f
+last_srvnode	src/srvnode.c	/^srvnode_t *last_srvnode(srvnode_t *head) {$/;"	f
+lastcache	src/cache.c	/^static cache_t *lastcache	= NULL;$/;"	v	file:
+lastused	src/cache.c	/^    unsigned long lastused;$/;"	m	struct:_cache	file:
+len	src/dns.h	/^    int		  len;$/;"	m	struct:_rr
+len	src/dns.h	/^    int		len;		\/* ... with this size in bytes. *\/$/;"	m	struct:_header
+len	src/tcp.c	/^    unsigned           len;$/;"	m	struct:tcp_handle_info	file:
+libdir	Makefile	/^libdir = ${exec_prefix}\/lib$/;"	m
+libdir	doc/Makefile	/^libdir = ${exec_prefix}\/lib$/;"	m
+libdir	src/Makefile	/^libdir = ${exec_prefix}\/lib$/;"	m
+libexecdir	Makefile	/^libexecdir = ${exec_prefix}\/libexec$/;"	m
+libexecdir	doc/Makefile	/^libexecdir = ${exec_prefix}\/libexec$/;"	m
+libexecdir	src/Makefile	/^libexecdir = ${exec_prefix}\/libexec$/;"	m
+localedir	Makefile	/^localedir = ${datarootdir}\/locale$/;"	m
+localedir	doc/Makefile	/^localedir = ${datarootdir}\/locale$/;"	m
+localedir	src/Makefile	/^localedir = ${datarootdir}\/locale$/;"	m
+localstatedir	Makefile	/^localstatedir = ${prefix}\/var$/;"	m
+localstatedir	doc/Makefile	/^localstatedir = ${prefix}\/var$/;"	m
+localstatedir	src/Makefile	/^localstatedir = ${prefix}\/var$/;"	m
+log_debug	src/common.c	/^void log_debug(int level, const char *fmt, ...)$/;"	f
+log_err_exit	src/common.c	/^void log_err_exit(int exitcode, const char *fmt, ...)$/;"	f
+log_msg	src/common.c	/^void log_msg(int type, const char *fmt, ...)$/;"	f
+long_options	src/args.c	/^static struct option long_options[] =$/;"	v	typeref:struct:option	file:
+main	config.guess	/^		main()$/;"	f
+main	config.guess	/^	main ()$/;"	f
+main	config.guess	/^main ()$/;"	f
+main	src/main.c	/^int main(int argc, char *argv[])$/;"	f
+main	src/rand.c	/^int main()$/;"	f
+make_cname	src/common.c	/^char* make_cname(const char *text, const int maxlen)$/;"	f
+man8dir	doc/Makefile	/^man8dir = $(mandir)\/man8$/;"	m
+man_MANS	doc/Makefile	/^man_MANS = dnrd.8$/;"	m
+mandir	Makefile	/^mandir = ${datarootdir}\/man$/;"	m
+mandir	doc/Makefile	/^mandir = ${datarootdir}\/man$/;"	m
+mandir	src/Makefile	/^mandir = ${datarootdir}\/man$/;"	m
+master_config	src/master.c	/^char master_config[256]		= MASTER_CONFIG;$/;"	v
+master_dontknow	src/master.c	/^int master_dontknow(unsigned char *msg, int len, unsigned char *answer)$/;"	f
+master_init	src/master.c	/^int master_init(void)$/;"	f
+master_initialised	src/master.c	/^static int master_initialised	= 0;$/;"	v	file:
+master_lookup	src/master.c	/^int master_lookup(unsigned char *msg, int len)$/;"	f
+master_onoff	src/master.c	/^int master_onoff		= 1;$/;"	v
+master_reinit	src/master.c	/^int master_reinit(void)$/;"	f
+master_reload	src/master.c	/^unsigned char master_reload	= 0;$/;"	v
+matched_intf	src/udp.c	/^char matched_intf[5][10];$/;"	v
+matched_intf_cnt	src/udp.c	/^int matched_intf_cnt;$/;"	v
+max	src/standard.h	45;"	d
+max_sockets	src/common.c	/^int max_sockets = 200;$/;"	v
+maxsock	src/common.c	/^int                 maxsock;$/;"	v
+min	src/standard.h	42;"	d
+mix	src/rand.c	52;"	d	file:
+mkdir_p	Makefile	/^mkdir_p = \/bin\/mkdir -p$/;"	m
+mkdir_p	doc/Makefile	/^mkdir_p = \/bin\/mkdir -p$/;"	m
+mkdir_p	src/Makefile	/^mkdir_p = \/bin\/mkdir -p$/;"	m
+mkinstalldirs	Makefile	/^mkinstalldirs = $(install_sh) -d$/;"	m
+mkinstalldirs	doc/Makefile	/^mkinstalldirs = $(install_sh) -d$/;"	m
+mkinstalldirs	src/Makefile	/^mkinstalldirs = $(install_sh) -d$/;"	m
+mkstring	src/master.c	/^static char *mkstring(string_t *string, const char *name, const int maxlen)$/;"	f	file:
+my_qid	src/query.h	/^  unsigned short my_qid; \/* the local qid *\/$/;"	m	struct:_query
+myrand	src/qid.c	/^int myrand(int max) {$/;"	f
+name	src/cache.c	/^    char	 *name;		\/* Objectname *\/$/;"	m	struct:_cache	file:
+name	src/dns.h	/^    char	  name[RR_NAMESIZE];$/;"	m	struct:_rr
+name_lookup	src/master.c	/^static dnsrec_t *name_lookup(char *name)$/;"	f	file:
+nameip	src/master.c	/^	nameip_t	nameip;$/;"	m	union:_dnsrec::__anon1	file:
+nameip_t	src/master.c	/^} nameip_t;$/;"	t	typeref:struct:_nameip	file:
+newquery	src/srvnode.h	/^  struct _query   *newquery; \/* new opened socket, prepared for a new query *\/$/;"	m	struct:_srvnode	typeref:struct:_srvnode::_query
+next	src/cache.c	/^    struct _cache *next, *prev;$/;"	m	struct:_cache	typeref:struct:_cache::_cache	file:
+next	src/infnode.h	/^  struct _infnode *next;    \/* ptr to next server *\/$/;"	m	struct:_infnode	typeref:struct:_infnode::_infnode
+next	src/query.h	/^  struct _query     *next; \/* ptr to next query *\/$/;"	m	struct:_query	typeref:struct:_query::_query
+next	src/srvnode.h	/^  struct _srvnode     *next; \/* ptr to next server *\/$/;"	m	struct:_srvnode	typeref:struct:_srvnode::_srvnode
+next_active	src/infnode.c	/^srvnode_t *next_active(infnode_t *i) {$/;"	f
+no_srvlist	src/srvnode.c	/^int no_srvlist(srvnode_t *head) {$/;"	f
+noctrln	src/lib.c	/^char *noctrln(char *buffer, const int maxlen)$/;"	f
+nscount	src/dns.h	/^    short int	nscount;$/;"	m	struct:_header
+object	src/master.c	/^    string_t	object;$/;"	m	struct:_dnsrec	file:
+oldincludedir	Makefile	/^oldincludedir = \/usr\/include$/;"	m
+oldincludedir	doc/Makefile	/^oldincludedir = \/usr\/include$/;"	m
+oldincludedir	src/Makefile	/^oldincludedir = \/usr\/include$/;"	m
+opt_debug	src/common.c	/^       opt_debug = OPT_DEBUG;$/;"	v
+opt_serv	src/common.c	/^int                 opt_serv = 0;$/;"	v
+p	src/cache.c	/^    dnsheader_t	*p;		\/* The DNS packet with decoded header *\/$/;"	m	struct:_cache	file:
+packet	src/dns.h	/^    char	*packet;	\/* The actual data packet ... *\/$/;"	m	struct:_header
+parse_args	src/args.c	/^int parse_args(int argc, char **argv)$/;"	f
+parse_packet	src/dns.c	/^dnsheader_t *parse_packet(unsigned char *packet, int len)$/;"	f
+parse_query	src/dns.c	/^int parse_query(rr_t *y, unsigned char *msg, int len)$/;"	f
+pdfdir	Makefile	/^pdfdir = ${docdir}$/;"	m
+pdfdir	doc/Makefile	/^pdfdir = ${docdir}$/;"	m
+pdfdir	src/Makefile	/^pdfdir = ${docdir}$/;"	m
+pid_file	src/common.c	/^const char*         pid_file = "\/var\/run\/dnrd.pid";$/;"	v
+pid_file	src/common.c	/^const char*         pid_file = "\/var\/tmp\/dnrd.pid";$/;"	v
+pkgdatadir	Makefile	/^pkgdatadir = $(datadir)\/dnrd$/;"	m
+pkgdatadir	doc/Makefile	/^pkgdatadir = $(datadir)\/dnrd$/;"	m
+pkgdatadir	src/Makefile	/^pkgdatadir = $(datadir)\/dnrd$/;"	m
+pkgincludedir	Makefile	/^pkgincludedir = $(includedir)\/dnrd$/;"	m
+pkgincludedir	doc/Makefile	/^pkgincludedir = $(includedir)\/dnrd$/;"	m
+pkgincludedir	src/Makefile	/^pkgincludedir = $(includedir)\/dnrd$/;"	m
+pkglibdir	Makefile	/^pkglibdir = $(libdir)\/dnrd$/;"	m
+pkglibdir	doc/Makefile	/^pkglibdir = $(libdir)\/dnrd$/;"	m
+pkglibdir	src/Makefile	/^pkglibdir = $(libdir)\/dnrd$/;"	m
+pkglibexecdir	Makefile	/^pkglibexecdir = $(libexecdir)\/dnrd$/;"	m
+pkglibexecdir	doc/Makefile	/^pkglibexecdir = $(libexecdir)\/dnrd$/;"	m
+pkglibexecdir	src/Makefile	/^pkglibexecdir = $(libexecdir)\/dnrd$/;"	m
+pool_ptr	src/qid.c	/^static int pool_ptr = QID_POOL_SIZE - 1;$/;"	v	file:
+positive	src/cache.c	/^    int		  positive;	\/* Positive or error response? *\/$/;"	m	struct:_cache	file:
+prefix	Makefile	/^prefix = \/usr\/local$/;"	m
+prefix	doc/Makefile	/^prefix = \/usr\/local$/;"	m
+prefix	src/Makefile	/^prefix = \/usr\/local$/;"	m
+prev	src/cache.c	/^    struct _cache *next, *prev;$/;"	m	struct:_cache	typeref:struct:_cache::	file:
+progname	src/common.c	/^const char*         progname = 0;$/;"	v
+program_transform_name	Makefile	/^program_transform_name = s,x,x,$/;"	m
+program_transform_name	doc/Makefile	/^program_transform_name = s,x,x,$/;"	m
+program_transform_name	src/Makefile	/^program_transform_name = s,x,x,$/;"	m
+prototypes	configure	/^   function prototypes and stuff, but not '\\xHH' hex character constants.$/;"	f
+psdir	Makefile	/^psdir = ${docdir}$/;"	m
+psdir	doc/Makefile	/^psdir = ${docdir}$/;"	m
+psdir	src/Makefile	/^psdir = ${docdir}$/;"	m
+pselect	src/lib.c	/^int pselect(int n, fd_set *readfds, fd_set *writefds, fd_set *exceptfds,$/;"	f
+ptr_lookup	src/master.c	/^static dnsrec_t *ptr_lookup(char *arpanum)$/;"	f	file:
+qdcount	src/dns.h	/^    short int	qdcount;$/;"	m	struct:_header
+qid_get	src/qid.c	/^unsigned short int qid_get(void) {$/;"	f
+qid_h	src/qid.h	8;"	d
+qid_init_pool	src/qid.c	/^void qid_init_pool(void) {$/;"	f
+qid_pool	src/qid.c	/^static unsigned short int qid_pool[QID_POOL_SIZE];$/;"	v	file:
+qid_return	src/qid.c	/^unsigned short int qid_return(unsigned short int qid) {$/;"	f
+qlist	src/query.c	/^query_t qlist; \/* the active query list *\/$/;"	v
+qlist_tail	src/query.c	/^static query_t *qlist_tail;$/;"	v	file:
+query_add	src/query.c	/^query_t *query_add(infnode_t *inf, srvnode_t *srv, $/;"	f
+query_count	src/query.c	/^int query_count(void) {$/;"	f
+query_create	src/query.c	/^query_t *query_create(infnode_t *i, srvnode_t *s) {$/;"	f
+query_delete_next	src/query.c	/^query_t *query_delete_next(query_t *q) {$/;"	f
+query_destroy	src/query.c	/^query_t *query_destroy(query_t *q) {$/;"	f
+query_dump_list	src/query.c	/^void query_dump_list(void) {$/;"	f
+query_get_new	src/query.c	/^query_t *query_get_new(infnode_t *inf, srvnode_t *srv) {$/;"	f
+query_init	src/query.c	/^void query_init() {$/;"	f
+query_stats	src/relay.c	/^void query_stats(time_t interval) {$/;"	f
+query_t	src/query.h	/^} query_t;$/;"	t	typeref:struct:_query
+query_timeout	src/query.c	/^void query_timeout(time_t age) {$/;"	f
+rand	src/rand.h	49;"	d
+randa	src/rand.h	/^  ub4 randa;$/;"	m	struct:randctx
+randb	src/rand.h	/^  ub4 randb;$/;"	m	struct:randctx
+randc	src/rand.h	/^  ub4 randc;$/;"	m	struct:randctx
+randcnt	src/rand.h	/^  ub4 randcnt;$/;"	m	struct:randctx
+randctx	src/rand.h	/^struct randctx$/;"	s
+randctx	src/rand.h	/^typedef  struct randctx  randctx;$/;"	t	typeref:struct:randctx
+randinit	src/rand.c	/^void randinit(ctx, flag)$/;"	f
+randmem	src/rand.h	/^  ub4 randmem[RANDSIZ];$/;"	m	struct:randctx
+randrsl	src/rand.h	/^  ub4 randrsl[RANDSIZ];$/;"	m	struct:randctx
+raw_dump	src/dns.c	/^static int raw_dump(dnsheader_t *x)$/;"	f	file:
+rdata	src/dns.h	/^    char	*rdata;		\/* For packet assembly. *\/$/;"	m	struct:_header
+reactivate_interval	src/common.c	/^int                 reactivate_interval = REACTIVATE_INTERVAL;$/;"	v
+reactivate_servers	src/relay.c	/^static void reactivate_servers(int interval) {$/;"	f	file:
+reactivate_srvlist	src/infnode.c	/^void reactivate_srvlist(infnode_t *i) {$/;"	f
+read_blacklist	src/master.c	/^int read_blacklist(const char *filename) {$/;"	f
+read_configuration	src/master.c	/^int read_configuration(char *filename)$/;"	f
+read_hosts	src/master.c	/^int read_hosts(char *filename, char *domain)$/;"	f
+read_record	src/dns.c	/^static int read_record(dnsheader_t *x, rr_t *y,$/;"	f	file:
+reallocate	src/lib.c	/^void *reallocate(void *p, size_t size)$/;"	f
+recv_addr	src/common.c	/^struct sockaddr_in recv_addr;$/;"	v	typeref:struct:sockaddr_in
+remove_cx	src/cache.c	/^static cache_t *remove_cx(cache_t *cx)$/;"	f	file:
+reply_recv	src/udp.c	/^static int reply_recv(query_t *q, int socket_indx, void *msg, int len)$/;"	f	file:
+reset_master	src/master.c	/^static int reset_master(void)$/;"	f	file:
+resp_sent	src/query.h	/^  int resp_sent;$/;"	m	struct:_query
+retry_srvlist	src/infnode.c	/^void retry_srvlist(infnode_t *i, const int delay) {$/;"	f
+retrydelay	src/infnode.h	/^  int             retrydelay; \/* delay before reactivating the servers *\/$/;"	m	struct:_infnode
+rngstep	src/rand.c	20;"	d	file:
+roundrobin	src/infnode.h	/^  int             roundrobin; \/* load balance the servers *\/$/;"	m	struct:_infnode
+rr_t	src/dns.h	/^} rr_t;$/;"	t	typeref:struct:_rr
+run	src/relay.c	/^void run()$/;"	f
+sb1	src/standard.h	/^typedef    signed       char sb1;   \/* signed 1-byte quantities *\/$/;"	t
+sb2	src/standard.h	/^typedef    signed short int  sb2;$/;"	t
+sb4	src/standard.h	/^typedef    signed long  int  sb4;$/;"	t
+sb8	src/standard.h	/^typedef    signed long long  sb8;$/;"	t
+sbin_PROGRAMS	src/Makefile	/^sbin_PROGRAMS = dnrd$(EXEEXT)$/;"	m
+sbindir	Makefile	/^sbindir = ${exec_prefix}\/sbin$/;"	m
+sbindir	doc/Makefile	/^sbindir = ${exec_prefix}\/sbin$/;"	m
+sbindir	src/Makefile	/^sbindir = ${exec_prefix}\/sbin$/;"	m
+search_infnode	src/infnode.c	/^infnode_t *search_infnode(infnode_t *head, const char *name) {$/;"	f
+search_server	src/udp.c	/^srvnode_t * search_server(struct sockaddr_in *resp_ip)$/;"	f
+select_timeout	src/common.c	/^int                 select_timeout = SELECT_TIMEOUT;$/;"	v
+send2current	src/udp.c	/^int send2current(query_t *q, void *msg, const int len) {$/;"	f
+send_count	src/srvnode.h	/^  unsigned int        send_count;$/;"	m	struct:_srvnode
+send_time	src/srvnode.h	/^  int                 send_time;$/;"	m	struct:_srvnode
+serv_sent_cnt	src/query.h	/^  int serv_sent_cnt;$/;"	m	struct:_query
+server	src/cache.c	/^  srvnode_t *server; \/* the server that gave this answer *\/$/;"	m	struct:_cache	file:
+set_current	src/infnode.c	/^srvnode_t *set_current(infnode_t *i, srvnode_t *s) {$/;"	f
+set_srvfail	src/relay.c	/^char *set_srvfail(char *msg, const int len) {$/;"	f
+sharedstatedir	Makefile	/^sharedstatedir = ${prefix}\/com$/;"	m
+sharedstatedir	doc/Makefile	/^sharedstatedir = ${prefix}\/com$/;"	m
+sharedstatedir	src/Makefile	/^sharedstatedir = ${prefix}\/com$/;"	m
+short_options	src/args.c	/^const char short_options[] = $/;"	v
+sig_handler	src/sig.c	/^void sig_handler(int signo)$/;"	f
+skip_ws	src/lib.c	/^char *skip_ws(char *string)$/;"	f
+snprintf_cname	src/dns.c	/^int snprintf_cname(char *msg, const int msgsize, \/* the dns packet *\/$/;"	f
+sock	src/common.h	/^  int                    sock;      \/* for communication with server *\/$/;"	m	struct:dnssrv_t
+sock_arr	src/query.h	/^  int sock_arr[3]; \/* the communication socket array - one for each of the three simultaneously sent queries *\/$/;"	m	struct:_query
+sort	src/infnode.c	/^void sort (void)$/;"	f
+sortd_str	src/infnode.c	/^char sortd_str[100][20];$/;"	v
+sp_hosts	src/common.c	/^special_hosts_t sp_hosts[30];$/;"	v
+sp_hosts_count	src/common.c	/^int sp_hosts_count;$/;"	v
+special_hosts_t	src/common.h	/^} special_hosts_t;$/;"	t	typeref:struct:_special_hosts
+srcdir	Makefile	/^srcdir = .$/;"	m
+srcdir	doc/Makefile	/^srcdir = .$/;"	m
+srcdir	src/Makefile	/^srcdir = .$/;"	m
+srv	src/query.h	/^  srvnode_t *srv; \/* the upstream server *\/$/;"	m	struct:_query
+srv_stats	src/relay.c	/^void srv_stats(time_t interval) {$/;"	f
+srvlist	src/infnode.h	/^  srvnode_t       *srvlist; \/* linked list of servers *\/$/;"	m	struct:_infnode
+srvnode_t	src/srvnode.h	/^} srvnode_t;$/;"	t	typeref:struct:_srvnode
+start_rdata	src/master.c	/^static int start_rdata(dnsheader_t *x)$/;"	f	file:
+stats_interval	src/common.c	/^int                 stats_interval = 0;$/;"	v
+stats_reset	src/common.c	/^int                 stats_reset = 1;$/;"	v
+string	src/master.c	/^    char	*string;$/;"	m	struct:_string	file:
+string_t	src/master.c	/^} string_t;$/;"	t	typeref:struct:_string	file:
+strnlen	src/lib.c	/^size_t strnlen(const char *s, size_t maxlen) {$/;"	f
+strnlwr	src/lib.c	/^char *strnlwr(char *string, const int maxlen)$/;"	f
+strnupr	src/lib.c	/^char *strnupr(char *string, const int maxlen)$/;"	f
+subdir	Makefile	/^subdir = .$/;"	m
+subdir	doc/Makefile	/^subdir = doc$/;"	m
+subdir	src/Makefile	/^subdir = src$/;"	m
+sysconfdir	Makefile	/^sysconfdir = \/usr\/local\/etc$/;"	m
+sysconfdir	doc/Makefile	/^sysconfdir = \/usr\/local\/etc$/;"	m
+sysconfdir	src/Makefile	/^sysconfdir = \/usr\/local\/etc$/;"	m
+tardir	Makefile	/^	tardir=$(distdir) && $(am__tar) | GZIP=$(GZIP_ENV) gzip -c >$(distdir).tar.gz$/;"	m
+tardir	Makefile	/^	tardir=$(distdir) && $(am__tar) | bzip2 -9 -c >$(distdir).tar.bz2$/;"	m
+tardir	Makefile	/^	tardir=$(distdir) && $(am__tar) | compress -c >$(distdir).tar.Z$/;"	m
+tardir	Makefile	/^	tardir=$(distdir) && $(am__tar) | lzma -9 -c >$(distdir).tar.lzma$/;"	m
+tardir	Makefile	/^	tardir=$(distdir) && $(am__tar) | xz -c >$(distdir).tar.xz$/;"	m
+target	Makefile	/^target = i686-pc-linux-gnu$/;"	m
+target	doc/Makefile	/^target = i686-pc-linux-gnu$/;"	m
+target	src/Makefile	/^target = i686-pc-linux-gnu$/;"	m
+target_alias	Makefile	/^target_alias = $/;"	m
+target_alias	doc/Makefile	/^target_alias = $/;"	m
+target_alias	src/Makefile	/^target_alias = $/;"	m
+target_cpu	Makefile	/^target_cpu = i686$/;"	m
+target_cpu	doc/Makefile	/^target_cpu = i686$/;"	m
+target_cpu	src/Makefile	/^target_cpu = i686$/;"	m
+target_os	Makefile	/^target_os = linux-gnu$/;"	m
+target_os	doc/Makefile	/^target_os = linux-gnu$/;"	m
+target_os	src/Makefile	/^target_os = linux-gnu$/;"	m
+target_triplet	Makefile	/^target_triplet = i686-pc-linux-gnu$/;"	m
+target_triplet	doc/Makefile	/^target_triplet = i686-pc-linux-gnu$/;"	m
+target_triplet	src/Makefile	/^target_triplet = i686-pc-linux-gnu$/;"	m
+target_vendor	Makefile	/^target_vendor = pc$/;"	m
+target_vendor	doc/Makefile	/^target_vendor = pc$/;"	m
+target_vendor	src/Makefile	/^target_vendor = pc$/;"	m
+tcp	src/srvnode.h	/^  int                 tcp;$/;"	m	struct:_srvnode
+tcp_handle_info	src/tcp.c	/^typedef struct tcp_handle_info {$/;"	s	file:
+tcp_handle_request	src/tcp.c	/^void tcp_handle_request()$/;"	f
+tcp_handle_t	src/tcp.c	/^} tcp_handle_t;$/;"	t	typeref:struct:tcp_handle_info	file:
+tcp_handler	src/tcp.c	/^static void *tcp_handler(tcp_handle_t *dummy)$/;"	f	file:
+tcpsock	src/common.c	/^int                 tcpsock = -1;$/;"	v
+tolerant_mode	src/dns.c	/^unsigned char tolerant_mode = 1;$/;"	v
+top_build_prefix	Makefile	/^top_build_prefix = $/;"	m
+top_build_prefix	doc/Makefile	/^top_build_prefix = ..\/$/;"	m
+top_build_prefix	src/Makefile	/^top_build_prefix = ..\/$/;"	m
+top_builddir	Makefile	/^top_builddir = .$/;"	m
+top_builddir	doc/Makefile	/^top_builddir = ..$/;"	m
+top_builddir	src/Makefile	/^top_builddir = ..$/;"	m
+top_distdir	Makefile	/^top_distdir = $(distdir)$/;"	m
+top_srcdir	Makefile	/^top_srcdir = .$/;"	m
+top_srcdir	doc/Makefile	/^top_srcdir = ..$/;"	m
+top_srcdir	src/Makefile	/^top_srcdir = ..$/;"	m
+total_queries	src/query.c	/^unsigned long total_queries=0;$/;"	v
+total_timeouts	src/query.c	/^unsigned long total_timeouts=0;$/;"	v
+transform	Makefile	/^transform = $(program_transform_name)$/;"	m
+transform	doc/Makefile	/^transform = $(program_transform_name)$/;"	m
+transform	src/Makefile	/^transform = $(program_transform_name)$/;"	m
+ttl	src/dns.h	/^    unsigned long ttl;$/;"	m	struct:_rr
+ttl	src/query.h	/^  time_t ttl; \/* time to live for this query *\/$/;"	m	struct:_query
+type	src/cache.c	/^    int		  type, class;	\/* Query type and class. *\/$/;"	m	struct:_cache	file:
+type	src/dns.h	/^    unsigned int  type;$/;"	m	struct:_rr
+type	src/master.c	/^    int		type;$/;"	m	struct:_dnsrec	file:
+u	src/dns.h	/^    unsigned short      u;$/;"	m	struct:_header
+u	src/master.c	/^    } u;$/;"	m	struct:_dnsrec	typeref:union:_dnsrec::__anon1	file:
+ub1	src/standard.h	/^typedef  unsigned       char ub1;$/;"	t
+ub2	src/standard.h	/^typedef  unsigned short int  ub2;$/;"	t
+ub4	src/standard.h	/^typedef  unsigned long  int  ub4;   \/* unsigned 4-byte quantities *\/$/;"	t
+ub8	src/standard.h	/^typedef  unsigned long long  ub8;$/;"	t
+udp_handle_reply	src/udp.c	/^void udp_handle_reply(query_t *prev, int sock_indx)$/;"	f
+udp_handle_request	src/udp.c	/^query_t *udp_handle_request()$/;"	f
+udp_send	src/udp.c	/^static int udp_send(int sock, srvnode_t *srv, void *msg, int len)$/;"	f	file:
+udp_send_dummy	src/udp.c	/^int udp_send_dummy(srvnode_t *s) {$/;"	f
+upstream_sockets	src/query.c	/^int upstream_sockets = 0; \/* number of upstream sockets *\/$/;"	v
+user_groups_contain	src/main.c	/^static int user_groups_contain (gid_t file_gid)$/;"	f	file:
+usleep	src/lib.c	/^int usleep( usec )              \/* returns 0 if ok, else -1 *\/$/;"	f
+valid_char	src/dns.c	/^static unsigned char valid_char[256];$/;"	v	file:
+validate_interface	src/infnode.c	/^int validate_interface(char *inf_name)$/;"	f
+version	src/common.c	/^const char*         version = PACKAGE_VERSION;$/;"	v
+wait_for_exit	src/common.c	/^int wait_for_exit(int pid, int timeout) {$/;"	f
+word	src/standard.h	/^typedef                 int  word;  \/* fastest type available *\/$/;"	t
